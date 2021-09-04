@@ -18,3 +18,22 @@
 [mail]: mailto:jason1287712@gmail.com
 [instagram]: https://www.instagram.com/temptado/
 [linkedin]: https://www.linkedin.com/in/jason-barrera-ramirez-b2a473204/
+
+### Technologies:
+[<img align="left" width="26px" alt="javascript" src="https://user-images.githubusercontent.com/82244776/132110201-fd810d53-561a-490f-a690-1735d4479281.png">][javascript]
+[<img align="left" width="26px" alt="CSS" src="https://user-images.githubusercontent.com/82244776/132110242-a351f140-471c-4447-a513-91c2b8a166d7.png">][CSS]
+[<img align="left" width="26px" alt="html" src="https://user-images.githubusercontent.com/82244776/132110258-65db95d8-f35b-4a2d-a091-8051a6b6f4f2.png">][html]
+[<img align="left" width="26px" alt="nodejs" src="https://user-images.githubusercontent.com/82244776/132110279-95f82cb8-9ed1-4733-bb3e-46d1ae0e733b.png">][node]
+[<img align="left" width="26px" alt="mysql" src="https://user-images.githubusercontent.com/82244776/132110331-da9891ba-5eef-44c3-87db-869b91f34702.png">][mysql]
+[<img align="left" width="26px" alt="heroku" src="https://user-images.githubusercontent.com/82244776/132110346-720c197f-d193-4c6f-b84d-e9dc0420bba9.png">][heroku]
+[<img align="left" width="26px" alt="github" src="https://user-images.githubusercontent.com/82244776/132110367-f5e3b9f5-b3cb-49c1-be7c-aded0df1b8c1.png">][github]
+<img align="left" width="26px" alt="" src="">
+
+
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[node]: https://nodejs.org/en/docs/
+[mysql]: https://dev.mysql.com/doc/
+[heroku]: https://devcenter.heroku.com/categories/reference
+[github]: https://docs.github.com/en
