@@ -27,7 +27,6 @@
 [<img align="left" width="26px" alt="mysql" src="https://user-images.githubusercontent.com/82244776/132110331-da9891ba-5eef-44c3-87db-869b91f34702.png">][mysql]
 [<img align="left" width="26px" alt="heroku" src="https://user-images.githubusercontent.com/82244776/132110346-720c197f-d193-4c6f-b84d-e9dc0420bba9.png">][heroku]
 [<img align="left" width="26px" alt="github" src="https://user-images.githubusercontent.com/82244776/132110367-f5e3b9f5-b3cb-49c1-be7c-aded0df1b8c1.png">][github]
-<img align="left" width="26px" alt="" src="">
 
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -37,3 +36,5 @@
 [mysql]: https://dev.mysql.com/doc/
 [heroku]: https://devcenter.heroku.com/categories/reference
 [github]: https://docs.github.com/en
+
+![jbramirez03's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbramirez03&show_icons=true&theme=tokyonight)
