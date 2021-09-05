@@ -37,4 +37,5 @@
 [heroku]: https://devcenter.heroku.com/categories/reference
 [github]: https://docs.github.com/en
 
-![jbramirez03's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbramirez03&show_icons=true&theme=tokyonight)
+![jbramirez03's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbramirez03&show_icons=true&theme=prussian)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbramirez03&layout=compact)](https://github.com/jbramirez03/github-readme-stats)
